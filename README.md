@@ -6,7 +6,7 @@
 
 Once done, do this:
 
-* <del>gunzip -c chictopia.sql.gz</del> -- `gunzip -c chictopia.sql.gz | sqlite3 chictopia.sqlite3`
+* <del>gunzip -c chictopia.sql.gz</del> `gunzip -c chictopia.sql.gz | sqlite3 chictopia.sqlite3`
 
 (this will take a LOT of time, keep it running until the program terminates. **When it terminates, take a screenshot of the terminal window** (to ensure there was no error))
 
