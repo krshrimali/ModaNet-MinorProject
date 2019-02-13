@@ -6,6 +6,19 @@
 
 Once done, do this:
 
-* `gunzip -c chictopia.sql.gz`
+* <del>gunzip -c chictopia.sql.gz</del> -- `gunzip -c chictopia.sql.gz | sqlite3 chictopia.sqlite3`
 
 (this will take a LOT of time, keep it running until the program terminates. **When it terminates, take a screenshot of the terminal window** (to ensure there was no error))
+
+
+Update: (Feb 13 2019) **Step-1 Done!**
+
+Next stop - **Download LMDB data (~40 GB).**
+
+`wget https://s3-ap-northeast-1.amazonaws.com/kyamagu-public/chictopia2/photos.lmdb.tar`
+
+MD5SUM is: `a404789687fc3906d7d843942c802f53.`
+
+Then extract the LMDB content:
+
+`tar xf photos.lmdb.tar`
