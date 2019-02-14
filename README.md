@@ -27,7 +27,9 @@ MD5SUM is: `a404789687fc3906d7d843942c802f53.`
 
 `tar xf photos.lmdb.tar`
 
+> Metadata are stored in chictopia.sql.gz, and images are stored in separate LMDB as encoded binaries.
 
-NOTES:
+
+# NOTES:
 1. # Handling .mdb Files
   https://stackoverflow.com/questions/3620539/how-to-deal-with-mdb-access-files-with-python
