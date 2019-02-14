@@ -26,3 +26,8 @@ MD5SUM is: `a404789687fc3906d7d843942c802f53.`
 3. Then extract the LMDB content:
 
 `tar xf photos.lmdb.tar`
+
+
+NOTES:
+1. # Handling .mdb Files
+  https://stackoverflow.com/questions/3620539/how-to-deal-with-mdb-access-files-with-python
