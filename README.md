@@ -13,11 +13,13 @@ Once done, do this:
 
 Update: (Feb 13 2019) **Step-1 Done!**
 
+
 Next stop - **Download LMDB data (~40 GB).**
 
-* <del>wget https://s3-ap-northeast-1.amazonaws.com/kyamagu-public/chictopia2/photos.lmdb.tar</del>
+2. * <del>wget https://s3-ap-northeast-1.amazonaws.com/kyamagu-public/chictopia2/photos.lmdb.tar</del>
 * `wget http://vision.is.tohoku.ac.jp/chictopia2/photos.lmdb.tar`
 
+Update: (Feb 14 2019) **Step-2 Done!**
 
 MD5SUM is: `a404789687fc3906d7d843942c802f53.`
 
