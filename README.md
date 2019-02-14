@@ -23,6 +23,6 @@ Update: (Feb 14 2019) **Step-2 Done!**
 
 MD5SUM is: `a404789687fc3906d7d843942c802f53.`
 
-Then extract the LMDB content:
+3. Then extract the LMDB content:
 
 `tar xf photos.lmdb.tar`
